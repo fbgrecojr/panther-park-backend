@@ -1,0 +1,13 @@
+{
+  "name": "pather-park-backend",
+  "author": "Frank B Greco Jr <frankgreco@northwesternmutual.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser":  "v1.15.0",
+    "express":      "v4.13.4",
+    "mongodb":      "v2.1.7"
+  }
+}
